@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.*;// code to add two numbers  
 public class add {
     public static void main(String[] args) {
        
